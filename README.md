@@ -1,1 +1,1 @@
-## This is the serverside rendaring datatable
+## This is the serverside rendering datatable
